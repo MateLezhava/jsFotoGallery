@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+
+body{
+    background-color: bisque;
+    color: darkgray;
+    padding: 20px;
+}
+
+.cont{
+    width: 800px;
+
+}
+
+.cont > img{
+    width: 100%;
+}
+
+.img img{
+    width: 80px;
+    cursor: pointer;
+}
